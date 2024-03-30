@@ -1,0 +1,27 @@
+{
+  "name": "steep",
+  "version": "1.1.4",
+  "description": "npm package to visualize string to graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grxkun/steep.git"
+  },
+  "keywords": [
+    "steep","3d","plot"
+  ],
+  "author": "grxkun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grxkun/steep/issues"
+  },
+  "homepage": "https://github.com/grxkun/steep#readme",
+  "dependencies": {
+    "d3": "^7.9.0",
+    "plotly": "^1.0.6",
+    "vis-graph3d": "^6.0.6"
+  }
+}
