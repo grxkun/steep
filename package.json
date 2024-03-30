@@ -1,5 +1,5 @@
 {
-  "name": "steep",
+  "name": "steep-3d",
   "version": "1.1.4",
   "description": "npm package to visualize string to graph",
   "main": "index.js",
