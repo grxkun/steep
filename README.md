@@ -1,6 +1,6 @@
 ---
 
-# steep
+# steep-3d
 
 [![npm version](https://badge.fury.io/js/steep.svg)](https://badge.fury.io/js/steep)
 
