@@ -8,7 +8,7 @@
 
 ## Installation
 
-To use **steep**, you need to have [Node.js](https://nodejs.org/) installed. Then, simply run:
+To use **steep-3d**, you need to have [Node.js](https://nodejs.org/) installed. Then, simply run:
 
 ```bash
 npm install steep-3d
@@ -19,7 +19,7 @@ npm install steep-3d
 1. Import the `visualizeStringInput` function in your JavaScript file:
 
     ```javascript
-    const steep = require('steep');
+    const steep = require('steep-3d');
     ```
 
 2. Call the function with your input string and visualization type:
