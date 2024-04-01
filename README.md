@@ -19,7 +19,7 @@ npm install steep-3d
 1. Import the `visualizeStringInput` function in your JavaScript file:
 
     ```javascript
-    const steep = require('steep-3d');
+    const steep-3d = require('steep-3d');
     ```
 
 2. Call the function with your input string and visualization type:
