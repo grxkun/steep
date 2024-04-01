@@ -4,14 +4,14 @@
 
 [![npm version](https://badge.fury.io/js/steep.svg)](https://badge.fury.io/js/steep)
 
-**steep** is an npm package that allows you to visualize multiple sets of **x** and **y** coordinates from a single input string. Whether you're plotting data points, creating graphs, or analyzing trends, **steep** has got you covered!
+**steep-3d** is an npm package that allows you to visualize multiple sets of **x** and **y** coordinates from a single input string. Whether you're plotting data points, creating graphs, or analyzing trends, **steep-3d** has got you covered!
 
 ## Installation
 
 To use **steep**, you need to have [Node.js](https://nodejs.org/) installed. Then, simply run:
 
 ```bash
-npm install steep
+npm install steep-3d
 ```
 
 ## Usage
